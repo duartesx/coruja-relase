@@ -1,0 +1,11 @@
+
+{
+  "routes": [
+    {
+      "src": "/coruja-release.apk",
+      "headers": {
+        "Content-Disposition": "attachment; filename=\"coruja-release.apk\""
+      }
+    }
+  ]
+}
